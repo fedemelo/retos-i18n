@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
+import App from "./App";
 
-import JobsList from "./components/jobslist";
-
-ReactDOM.render(<JobsList />, document.getElementById("root"));
+ReactDOM.render(
+    <App />, document.getElementById("root")
+);

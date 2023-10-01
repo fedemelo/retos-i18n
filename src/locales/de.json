@@ -1,0 +1,14 @@
+{
+    "Position": "Position",
+    "Company": "Unternehmen",
+    "Salary": "Gehalt",
+    "City": "Stadt",
+    "PublicationDate": "Veröffentlichungsdatum",
+    "Views": "Anzahl der Aufrufe",
+
+    "Million": "Million",
+    "Millions": "Millionen",
+
+    "backgroundColor": "green",
+    "color": "white"
+}
